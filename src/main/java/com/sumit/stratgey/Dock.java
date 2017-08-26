@@ -14,5 +14,8 @@ public abstract class Dock {
     public void quackMe(){
         quack.quack();
     }
+    public void helloWorld(){
+
+    }
 
 }
